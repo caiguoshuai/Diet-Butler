@@ -21,7 +21,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: npm
 
       # 若仓库没有 package-lock.json，则使用 npm install
       - name: Install dependencies
