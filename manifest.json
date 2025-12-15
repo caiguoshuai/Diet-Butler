@@ -1,0 +1,22 @@
+{
+  "name": "膳食管家",
+  "short_name": "膳食管家",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#4f46e5",
+  "description": "智能膳食计划与购物清单生成器",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/4f46e5/ffffff?text=Food",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://placehold.co/512x512/4f46e5/ffffff?text=Food",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
